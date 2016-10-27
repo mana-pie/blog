@@ -1,6 +1,6 @@
 name: Conjured Mana Pie
 description: 와린이를 위한 불친절한(?) 가이드
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "Simple World of Warcraft Guide for Conjured Mana Pie"
 
 aboutPage: true
 
@@ -16,7 +16,7 @@ disqus: false
 #disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://127.0.0.1:4000' #'http://mana-pie.github.io'
+url:            'http://mana-pie.github.io'
 author:         'Mana-Pie'
 # authorTwitter:  'YourTwitterUsername'
 
