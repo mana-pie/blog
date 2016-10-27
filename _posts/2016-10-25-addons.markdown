@@ -67,7 +67,7 @@ Curse Client를 사용하기 위해서는 가입을 해야해요.
 각각의 애드온 별로 설정할 수 있는 것들은 다양하니까 설정은 생략 :)
 
 
-#### 필수 애드온?
+#### 필수 혹은 추천 애드온
 보통 필수 애드온이라 하면 다른 사람들도 다 사용하는(?) 애드온이라 볼 수 있는데 아래 목록을 참고하세요.
 
 * [Deadly Boss Mods(DBM)](https://mods.curse.com/addons/wow/deadly-boss-mods)
