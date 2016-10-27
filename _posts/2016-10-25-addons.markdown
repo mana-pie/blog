@@ -30,7 +30,7 @@ Curse Client를 사용하기 위해서는 가입을 해야해요.
 1. 우측에 Download Now 선택해서 다운로드 하고
   ![addons folder]({{ site.url }}/assets/images/2016-10-26-addons/2016-10-25_145537.png)
 
-1. 압축을 풀어 와우의 설치 폴더 아래 **/Interface/AddOns/** 폴더에 복사해줍니다.
+1. 압축을 풀어 와우의 설치 폴더 아래 __/Interface/AddOns/__ 폴더에 복사해줍니다.
 와우 설치 폴더는 보통의 경우 **C:/Program Files (x86)/World of Warcraft**
   ![addons folder]({{ site.url }}/assets/images/2016-10-26-addons/2016-10-25_144040.png)
 
