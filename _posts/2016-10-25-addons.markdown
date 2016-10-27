@@ -70,11 +70,11 @@ Curse Client를 사용하기 위해서는 가입을 해야해요.
 #### 필수 혹은 추천 애드온
 보통 필수 애드온이라 하면 다른 사람들도 다 사용하는(?) 애드온이라 볼 수 있는데 아래 목록을 참고하세요.
 
-  * [Deadly Boss Mods(DBM)](https://mods.curse.com/addons/wow/deadly-boss-mods)
+  * [Deadly Boss Mods(DBM)](https://mods.curse.com/addons/wow/deadly-boss-mods)  
     레이드 공략할때 필수인 애드온이고 유사품(?)으로 BigWigs도 있어요.
-  * [Skada Damage Meter](https://mods.curse.com/addons/wow/skada)
+  * [Skada Damage Meter](https://mods.curse.com/addons/wow/skada)  
     데미지 미터기, Recount, Details 같은 애드온도 있긴한데 가벼워서 요즘은 이걸 많이 쓰는 것 같아요.
     누가 얼마나 많은 딜을 했느냐만 나오는게 아니라 힐을 얼마나 했는지, 혹은 받았는지 등등 많은 정보가 나오니까
     천천히 살펴보세요
-  * [Postal](https://mods.curse.com/addons/wow/postal)
+  * [Postal](https://mods.curse.com/addons/wow/postal)  
     우편 기능을 이용할때 필수!
