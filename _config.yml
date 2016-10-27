@@ -10,13 +10,13 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 10
 baseurl: /
-domain_name: 'http://mana-pie.github.io'
+domain_name: 'https://mana-pie.github.io'
 #google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 #disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://mana-pie.github.io'
+url:            'https://mana-pie.github.io'
 author:         'Mana-Pie'
 # authorTwitter:  'YourTwitterUsername'
 
