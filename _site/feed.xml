@@ -5,7 +5,155 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 28 Oct 2016 15:49:15 +0900</pubDate>
+    <pubDate>Fri, 28 Oct 2016 17:53:41 +0900</pubDate>
+    
+      <item>
+        <title>마법사</title>
+        <link>http://localhost:4000/2016/10/28/class-mage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/28/class-mage.html</guid>
+        <description>&lt;h4 id=&quot;section&quot;&gt;먼저,&lt;/h4&gt;
+&lt;p&gt;마법사는 어떤 MMORPG에나 기본으로 있는 전사, 마법사, 사제 할때 그 마법사에요. 유사품(?)으로 흑마법사가 있어요.&lt;/p&gt;
+
+&lt;p&gt;특성이나 딜 사이클에 대한건 능력 밖의 일이고 그냥 마법사는 이런 걸 할 수 있구나,
+필드나 인던에서 마법사를 마주쳤을때 어떤 특성을 가진 마법사구나 라고 알 수 있을 정도로 간단하게 수박 겉을 핥아 볼거에요. 할짝할짝.&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;마법사는&lt;/h4&gt;
+&lt;p&gt;와우에서 마법사는 사냥꾼과 더불어 초보자에게 추천하는 대표적인 직업 중에 하나고, 블쟈 사장 딸이 하고 있다는 농담 아닌 농담이
+있을 정도로 퓨어 딜러 중에 항상 상위권에 위치할 정도로 딜러로서 &lt;strong&gt;아주 좋은&lt;/strong&gt; 직업이라고 할 수 있어요.&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;특성&lt;/h4&gt;
+&lt;p&gt;마법사는 퓨어 딜러로 3개 특성 모두가 &lt;strong&gt;딜&lt;/strong&gt; 특성이에요.&lt;/p&gt;
+
+&lt;p&gt;뭐가 젤 쎄냐면, 일단 &lt;strong&gt;운전자&lt;/strong&gt; 에 따라 다르긴 하지만 &lt;strong&gt;현 시점&lt;/strong&gt; 에서 볼때
+화염 &amp;gt; 비전 &amp;gt;= 냉기 정도로 볼 수 있어요. 지금 워낙 화염 일색이라 비전과 냉기는 거의 찾아볼 수 없기 때문에
+쉽게 그냥 화염이 짱짱맨이고 비전과 냉기는 그냥 비슷하다 정도로 생각하면 틀리지 않을 것 같아요.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;화염&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;현재 가장 &lt;strong&gt;핫&lt;/strong&gt; 한 특성.
+  이름 그대로 불로 딜하는 특성이고 &lt;strong&gt;발화&lt;/strong&gt; 라는 스킬을 쓰면 몸이 활활 타는 이펙트가 생기는데,
+  이걸 10초간 주문 극대화 100% 증가, 치명타 및 극대화(2차스탯 값)만큼 특화 증가하는 스킬이에요. 이펙트가 꽤 멋져 보이더라구요.&lt;/p&gt;
+
+&lt;p&gt;다만, 화염구가 기본 스킬인데 처음 보면 그 썰렁함에 당황할지도? :)&lt;/p&gt;
+
+&lt;p&gt;특성은 &lt;a href=&quot;http://www.wowhead.com/guides/classes/mage/fire/talents&quot;&gt;요기&lt;/a&gt;를 참조&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;냉기&lt;/p&gt;
+
+    &lt;p&gt;냉기 특성의 마법사를 구분하는 가장 큰 차이점은 일명 &lt;strong&gt;물딩딩&lt;/strong&gt; !&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;요렇게 생긴 &lt;strong&gt;물의 정령&lt;/strong&gt; 을 소환해서 데리고 다닌다면 바로 냉기 특성이구나 라고 생각하면 되요.&lt;/p&gt;
+
+    &lt;p&gt;특성은 &lt;a href=&quot;http://www.wowhead.com/guides/classes/mage/frost/talents&quot;&gt;요기&lt;/a&gt;를 참조&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;비전&lt;/p&gt;
+
+    &lt;p&gt;위에 두가지가 아니면 비전이라고 볼 수 있는데, 비전 마법사는 비전 작렬이라는 스킬을 계속 써서 &lt;strong&gt;비전 충전물 4중첩&lt;/strong&gt; 이 되면
+비전 탄막을 쓰고 다시 비전 작렬로 중첩을 쌓는 걸 반복하는 딜 사이클을 가져요.&lt;/p&gt;
+
+    &lt;p&gt;특성은 &lt;a href=&quot;http://www.wowhead.com/guides/classes/mage/arcane/talents&quot;&gt;요기&lt;/a&gt;를 참조&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;특징&lt;/h4&gt;
+&lt;p&gt;딜이 좋다는 것 말고 마법사는 유틸 스킬이 아주 많아요. 유명한 양변, 감속 같은 CC기 부터 기동성도 좋고
+암튼 다재다능하다고 할 수 있어요.&lt;/p&gt;
+
+&lt;p&gt;일단 기동성에 대해서는 대표적으로 앞으로 15m 정도를 이동하는 점멸이 있고,&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;대도시를 쉽게 이동할 수 있는 &lt;strong&gt;순간이동&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;포탈을 열어 파티원이나 공대원을 이동시킬 수도 있구요.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;물빵을 만들어 먹을 수 도 있어요.&lt;/p&gt;
+
+&lt;p&gt;보통 마나를 사용하지 않는 직업군은 상점에서 빵이나 고기류를 사서 먹으면 피를 채울 수 있고 마나를 사용하는 직업군은
+상점에서 물을 사서 먹으면 마나를 채울 수 있는데, 마법사가 만든 &lt;strong&gt;창조된 마나 00&lt;/strong&gt; 류는 피와 마나를 동시에 채워줘요.
+그래서 보통 &lt;strong&gt;물빵&lt;/strong&gt; 이라고 불러요.(물과 빵의 기능을 동시에 하기 때문에)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;스킬이 많이 통합되서 예전에는 혼자 만들어 먹는 물, 함께 먹을 수 있는 물, 혼자 만들어 먹는 빵, 함게 먹을 수 있는 빵 스킬이 다 다르고
+레벨이 높아질 수록 또 더 많이 채워주는 물, 더 많이 채워주는 빵 스킬을 배워서 종류가 많았는데 요즘은 그냥 스킬 하나로 혼자일때는 혼자 먹을 수 있는 물빵이,
+파티나 공격대에 속해있을때는 다 같이 먹을 수 있는 물빵이 자동으로 만들어져요.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;그리고 투명화라는 스킬도 있으니까 위험할때 뙇.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;당황하지 마세요.&lt;/h4&gt;
+&lt;p&gt;인던에 갔는데 누군가가 아래와 같은 말을 한다면 당황하지 마세요.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;법사님 양변요&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이건 말 그대로 &lt;em&gt;양 변이&lt;/em&gt; 스킬을 써달라는 것인데, 주의할 점은 지정한 대상을 양으로 변이하면 계속 지속되는게 아니라
+  일정 주기가 지나면 변이가 풀려요. 그러니까 양으로 변이한 대상을 잘 보고 있다가 변이가 풀리면 다시 걸어줘야 한다는 점 잊지마세요.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;법사님 물빵좀&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;앞에 설명했듯이 물빵이라고 하면 당황하지 말고 &lt;strong&gt;원기 회복의 음식 창조&lt;/strong&gt; 스킬을 써주면되요. 그러면 다른 사람들도 먹을 수 있는
+  식탁이 차려집니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;법사님 블러드!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;블러드라는 스킬은 없는데요? 하지 말고 이 말을 들으면 &lt;strong&gt;시간 왜곡&lt;/strong&gt; 이라는 스킬을 써주면 되요.
+  모든 파티원과 공격대원의 가속을 40초 동안 30% 만큼 증가시키는 스킬인데, 왜 블러드 라고 불리냐 하면 예전엔 이 스킬을
+  주술사만 쓸 수 있었는데 그때 스킬 이름이 블러드 였기 때문에 그렇게 부르게 됐어요.
+  (한글로는 피의 욕망, 영어로는 Bloodlust라고 하는데 얼라이언스에서는 영웅심 이라고 부르고 줄여서 웅심이라고 해요.)&lt;/p&gt;
+
+&lt;p&gt;이 스킬을 쓰면 어떤 느낌이냐면 ‘툭툭’ 때리던 사람이 ‘우다다다다다닼’ 때리게 되는 느낌?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;주의할 점은, 블러드를 한번 쓰면 10분 동안 다시 이 효과를 받을 수 없는 디버프가 걸리게 되요. 이 디버프가 있는 동안에는
+  블러드를 사용하더라도 그 효과를 받을 수 없다는 점 기억하세요.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;저속 낙하?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;높은 곳에서 뛰어 내릴때 파티원에게 걸어주면 천천히 떨어지게 만들어줘서 죽을만한 높이에서 떨어져도 살 수 있게 만드는 스킬이에요.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2016-10-28-map-part-2/15.18.44.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;파티, 공격대 상태일 때 연 포탈은 파티원과 공격대원만 이동할 수 있음. 혼자일때(파티가 아닐때) 연 포탈은 자기 자신만 이동할 수 있다는 말이며, 이 말은 다른 사람이 연 포탈은 아무리 이용하려고 해봐야 이용할 수 없다는 의미이기도 함. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;더 정확하게는 다른 사람이 물빵을 가질 수 있는 식탁이 차려짐. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 28 Oct 2016 15:51:00 +0900</pubDate>
+      </item>
     
       <item>
         <title>지도 - part 2</title>
